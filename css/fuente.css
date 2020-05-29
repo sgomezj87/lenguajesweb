@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Avocado Creamy";
+  src: url("../fonts/AvocadoCreamy.otf");
+}
+
+p {
+  font-family: "Avocado Creamy", cursive;
+  font-size: 150%;
+}
