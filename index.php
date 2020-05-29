@@ -45,7 +45,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
              <!-- Tiene tres elementos -->
-            <a class="dropdown-item" href="#">Páginas Web</a>
+            <a class="dropdown-item" href="#">Páginas Web nueva</a>
             <a class="dropdown-item" href="#">Aplicaciones</a>
             <a class="dropdown-item" href="#">E-commerce</a>
           </div>
