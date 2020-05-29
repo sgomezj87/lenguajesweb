@@ -32,7 +32,7 @@
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la segunda página, denominada conocenos-->
-          <a class="nav-link" href="contacto.html">Conocenos</a>
+          <a class="nav-link" href="contacto.html">Quienes somos</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la página del TdeA-->
