@@ -28,7 +28,7 @@
         <!-- Se indica cada elemento de la lista-->
         <li class="nav-item active">
           <!-- En este caso es un enlace a la página inicial-->
-          <a class="nav-link" href="index.html">Inicio</a>
+          <a class="nav-link" href="index.html">Home</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la segunda página, denominada conocenos-->
