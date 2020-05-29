@@ -13,7 +13,6 @@
 
 </head>
 <body>
-
   <!-- Ejemplo de barra de navagación-->
   <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
     <!-- Ejemplo de título de la página o para poner una imagen del logo-->
