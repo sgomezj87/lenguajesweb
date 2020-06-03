@@ -5,8 +5,8 @@ $nombre = $_REQUEST['nombre'];
 echo "El nombre de la persona es";
 echo $_REQUEST['nombre'];
 ?>
-
-<h1> Bienvenido <?php echo $nombre ?>  a la página </h1>
+<h1> Bienvenido <?php echo "hola" ?> a la página </h1>
+<h1> Bienvenido <?php echo $nombre ?> a la página </h1>
 
 <div class="form-group">
                 <label for="nombre">Nombre:</label><br>
