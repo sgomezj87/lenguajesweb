@@ -1,7 +1,9 @@
 <?php
 include "header.php";
-echo "El color elegido fue ";
-echo $_GET['color'];
+
+$nombre = $_REQUEST['nombre'];
+echo "El nombre de la persona es";
+echo $_REQUEST['nombre'];
 ?>
 
 
