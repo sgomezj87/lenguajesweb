@@ -1,10 +1,7 @@
 <?php
 include "header.php";
 ?>
-<!-- Crea un jumbotron que se utiliza para títulos, banner y otros elementos distintivos de gran tamaño-->
-  <div id="titulo" class="jumbotron ">
-    <h1 id="tituloh1" class="text-center" >Ejemplo de Formulario</h1>
- </div> 
+
 
 <div class="container">
   <div class="alert alert-warning" id="alerta" role="alert" style="visibility: hidden">
