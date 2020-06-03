@@ -28,11 +28,11 @@
         <!-- Se indica cada elemento de la lista-->
         <li class="nav-item active">
           <!-- En este caso es un enlace a la página inicial-->
-          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la segunda página, denominada conocenos-->
-          <a class="nav-link" href="contacto.html">Quienes somos</a>
+          <a class="nav-link" href="contacto.php">Quienes somos</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la página del TdeA-->
@@ -56,7 +56,7 @@
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Usuario" aria-label="Search">
         <input class="form-control mr-sm-2" type="search" placeholder="Contraseña" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Ingresar</button>
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Enviar</button>
       </form>
     </div>
   </nav>
