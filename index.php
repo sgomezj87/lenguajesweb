@@ -60,9 +60,9 @@ include "header.php";
 
          
          <!-- Pie del modal-->         
-          <button class="btn btn-success" id="enviar">Comprar</button>
-          <button  class="btn btn-danger" id="cambiar">Cambiar Color</button>
-          <input type="submit" class="btn btn-primary" >
+          <button class="btn btn-success" type="button" id="enviar">Comprar</button>
+          <button  class="btn btn-danger" type="button" id="cambiar">Cambiar Color</button>
+          <input type="submit" class="btn btn-primary">
            <p id="texto2">  </p>
         </div>
      </form>
