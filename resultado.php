@@ -1,10 +1,7 @@
 <?php
 include "header.php";
-echo "hola";
+echo "El color elegido fue ";
 echo $_POST['color'];
-echo "hola";
-echo $_POST[color];
-
 ?>
 
 
