@@ -6,6 +6,13 @@ echo "El nombre de la persona es";
 echo $_REQUEST['nombre'];
 ?>
 
+<h1> Bienvenido <?php echo $nombre ?>  a la página </h1>
+
+<div class="form-group">
+                <label for="nombre">Nombre:</label><br>
+                <input type="text" class="form-control" id="nombre" name="nombre" value="<?php echo $nombre ?>"><br>
+              </div>
+
 
 
 </div>
