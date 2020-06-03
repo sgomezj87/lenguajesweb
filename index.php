@@ -28,11 +28,11 @@
         <!-- Se indica cada elemento de la lista-->
         <li class="nav-item active">
           <!-- En este caso es un enlace a la página inicial-->
-          <a class="nav-link" href="index.html">Inicio</a>
+          <a class="nav-link" href="index.html">Home</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la segunda página, denominada conocenos-->
-          <a class="nav-link" href="contacto.html">Conocenos</a>
+          <a class="nav-link" href="contacto.html">Quienes somos</a>
         </li>
         <li class="nav-item">
           <!-- En este caso es un enlace a la página del TdeA-->
@@ -45,7 +45,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
              <!-- Tiene tres elementos -->
-            <a class="dropdown-item" href="#">Páginas Web</a>
+            <a class="dropdown-item" href="#">Páginas Web nueva</a>
             <a class="dropdown-item" href="#">Aplicaciones</a>
             <a class="dropdown-item" href="#">E-commerce</a>
           </div>
