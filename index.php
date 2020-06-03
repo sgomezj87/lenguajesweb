@@ -7,11 +7,11 @@ include "header.php";
   <div class="alert alert-warning" id="alerta" role="alert" style="visibility: hidden">
   Se ha cambiado de color
 </div>
-
+<form action="resultado.php" method="get">
     <!-- Se crea una columna de tamaño 8 y que va a dejar 2 tamaños de espacio a la izquierda-->
             <div class="col-sm-12 border">
               <!-- Dentro del modal se creó un formulario, siempre inicia con clase form-group y cada elemento tiene la clase form-control -->
-              <form action="resultado.php" method="post">
+              
 
               <div class="form-group">
                 <label for="nombre">Nombre:</label><br>
@@ -64,6 +64,7 @@ include "header.php";
         </div>
      </form>
         </div>
+
 <?php
 include "footer.php";
 ?>
