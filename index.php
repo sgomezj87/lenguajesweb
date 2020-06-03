@@ -65,6 +65,14 @@ include "header.php";
      </form>
         </div>
 
+       <form action="resultado.php" method="post">
+        <div class="form-group">
+                <label for="nombre">Nombre:</label><br>
+                <input type="text" class="form-control" id="nombre" name="nombre" ><br>
+              </div>
+        <input type="submit" class="btn btn-primary" value="Suministrar">
+       </form> 
+
 <?php
 include "footer.php";
 ?>
