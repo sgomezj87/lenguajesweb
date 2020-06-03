@@ -50,15 +50,7 @@ include "header.php"
             <img src="https://tdea.edu.co/images/tdea/galeria/noticias/2019/paz_oct_2019_2.jpg" width="50%">
 
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QNQVIQT2nY1lC87q4-1ocVQJ9rhC0VsK" width="100%" height="480" ></iframe>
-
-
 </div>
-
-   
- <script src="js/script1.js"></script>
- <script src="js/jquery-3.4.1.slim.min.js"></script>
- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="js/bootstrap.min.js"></script>
-
-</body>
-</html>
+<?php
+include "footer.php";
+?>
