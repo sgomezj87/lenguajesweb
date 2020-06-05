@@ -1,8 +1,6 @@
 <?php
 include "header.php";
 ?>
-
-
 <div class="container">
   <div class="alert alert-warning" id="alerta" role="alert" style="visibility: hidden">
   Se ha cambiado de color
